@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO SAN FRANCISCO O VICACHA 23 de ABRIL de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO SAN FRANCISCO O VICACHA Domingo 14 de Mayo 2017</div>
 
                     </div>
 <br>
@@ -89,6 +89,7 @@
                             <li>Culturales</li>
                             <li>Arquitectónicos</li>
                             <li>Hídricos</li>
+                            <li>Ambientales</li>
                             <li>Ecosistema de niebla y sub- páramo</li>
                             </font>
                         </ul>
@@ -126,7 +127,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 23 de Abril 2017</p>
+                                            <p>Domingo 14 de Mayo 2017</p>
 
                                         </td>
 
@@ -174,7 +175,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>13 - 60 años</p>
+                                            <p>12 - 60 años</p>
 
                                         </td>
 
